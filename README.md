@@ -4,6 +4,12 @@ Project to reproduce the numbers presented in the Disruptor paper.
 
 See page 2 of the [Paper][]
 
+To get the beautiful picture below:
+
+ * clone the repo 
+ * run __./gradlew run__ and wait a while.
+ * profit
+
 ![Results][]
 
 
