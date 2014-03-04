@@ -1,0 +1,12 @@
+apply plugin:'java'
+apply plugin:'application'
+
+mainClassName = "de.codepitbull.lockperformance.PerformanceMain"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.jfree:jfreechart:1.0.15'
+}
